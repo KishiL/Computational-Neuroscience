@@ -1,2 +1,2 @@
 ## Computational Neuroscience Practices
-Those files are practice questions' matlab code from The Introductory Course in Computational Neuroscience by Paul Miller.
+MATLAB code for tutorial questions from The Introductory Course in Computational Neuroscience by Paul Miller and some of the reports.
